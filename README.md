@@ -83,10 +83,8 @@ int main()
 ## Compilation
 To compile this code, use the following command:
 ```sh
-gcc -o memory_tracker main.c
+gcc -o memory_tracker memory_tracker.c
 ```
-
-Replace `main.c` with your actual source file name.
 
 ## License
 This project is licensed under the MIT License.
