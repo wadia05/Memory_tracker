@@ -72,15 +72,10 @@ int main()
     // Free all allocated memory blocks
     free_all_allocate();
 
-    // Endless loop to keep the program running
-    while (1) {};
 
     return 0;
 }
 ```
-
-### Notes
-- The code includes an endless loop (`while (1) {};`) at the end of `main()`. You may wish to modify this to allow the program to exit normally after testing.
 
 ## Requirements
 - C compiler
